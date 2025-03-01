@@ -10,7 +10,7 @@
 
 ###  Rodar Projeto:
 
-Primeiramente rode o seguinte comando na para colnar o respositorio do github
+Primeiramente rode o seguinte comando para clonar o respositorio do github
 
 ```
 git clone https://github.com/lucasspartacus/devnology-test.git
@@ -21,13 +21,12 @@ Após isso rode o comando a abaixo para baixar todas as dependências do projeto
 flutter pub get
 ```
 
-Após isso rode o comando abaixo para rodar o projeto
+Após isso use o comando abaixo para rodar o projeto
 ```
 flutter run
 ```
 
-Pode também rodar o comando abaixo para rodar o projeto no chrome, não precisando assim de nenhum simulador
-
+Pode também rodar o comando abaixo para rodar o projeto no chrome,assim não precisando de nenhum simulador
 ```
 flutter run -d chrome
 ```
